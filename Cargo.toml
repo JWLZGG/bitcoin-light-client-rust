@@ -1,0 +1,8 @@
+[package]
+name = "bitcoin-light-client-rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bitcoin = "0.30"
+reqwest = { version = "0.11", features = ["blocking", "json"] }
