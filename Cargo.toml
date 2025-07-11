@@ -4,5 +4,13 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-bitcoin = "0.30"
+bitcoin = { version = "0.30", features = ["serde"] }
+bip39 = "1.1.0"                       # <- `Mnemonic::generate_in()` is available here
+rand = "0.8.5"
+secp256k1 = { version = "0.24", features = ["rand"] }
+bitcoin_hashes = "0.13"
+hex = "0.4"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
 reqwest = { version = "0.11", features = ["blocking", "json"] }
+sha2 = "0.10"

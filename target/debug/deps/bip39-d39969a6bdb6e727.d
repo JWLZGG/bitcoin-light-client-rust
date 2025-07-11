@@ -1,0 +1,11 @@
+C:\Projects\bitcoin-light-client-rust\target\debug\deps\libbip39-d39969a6bdb6e727.rmeta: C:\Users\jerem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bip39-1.2.0\src\lib.rs C:\Users\jerem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bip39-1.2.0\src\internal_macros.rs C:\Users\jerem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bip39-1.2.0\src\language\mod.rs C:\Users\jerem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bip39-1.2.0\src\language\english.rs C:\Users\jerem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bip39-1.2.0\src\pbkdf2.rs
+
+C:\Projects\bitcoin-light-client-rust\target\debug\deps\libbip39-d39969a6bdb6e727.rlib: C:\Users\jerem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bip39-1.2.0\src\lib.rs C:\Users\jerem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bip39-1.2.0\src\internal_macros.rs C:\Users\jerem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bip39-1.2.0\src\language\mod.rs C:\Users\jerem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bip39-1.2.0\src\language\english.rs C:\Users\jerem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bip39-1.2.0\src\pbkdf2.rs
+
+C:\Projects\bitcoin-light-client-rust\target\debug\deps\bip39-d39969a6bdb6e727.d: C:\Users\jerem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bip39-1.2.0\src\lib.rs C:\Users\jerem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bip39-1.2.0\src\internal_macros.rs C:\Users\jerem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bip39-1.2.0\src\language\mod.rs C:\Users\jerem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bip39-1.2.0\src\language\english.rs C:\Users\jerem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bip39-1.2.0\src\pbkdf2.rs
+
+C:\Users\jerem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bip39-1.2.0\src\lib.rs:
+C:\Users\jerem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bip39-1.2.0\src\internal_macros.rs:
+C:\Users\jerem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bip39-1.2.0\src\language\mod.rs:
+C:\Users\jerem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bip39-1.2.0\src\language\english.rs:
+C:\Users\jerem\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bip39-1.2.0\src\pbkdf2.rs:
